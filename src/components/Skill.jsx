@@ -1,5 +1,5 @@
 /**
- * @copyright 2024 codewithsadee
+ * @copyright 2024 dhiwaaqsha
  * @license Apache-2.0
  */
 
@@ -12,79 +12,79 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: '/images/figma.svg',
+    imgSrc: 'images/figma.svg',
     label: 'Figma',
     desc: 'Design Tool'
   },
   {
-    imgSrc: '/images/python-5.svg',
+    imgSrc: 'images/python-5.svg',
     label: 'Python',
     desc: 'Data Analyst'
   },
   {
-    imgSrc: '/images/flutter.svg',
+    imgSrc: 'images/flutter.svg',
     label: 'Flutter',
     desc: 'Mobile App'
   }, 
   {
-    imgSrc: '/images/css3.svg',
+    imgSrc: 'images/css3.svg',
     label: 'CSS',
     desc: 'User Interface'
   },
   {
-    imgSrc: '/images/javascript.svg',
+    imgSrc: 'images/javascript.svg',
     label: 'JavaScript',
     desc: 'Interaction'
   },
   {
-    imgSrc: '/images/nodejs.svg',
+    imgSrc: 'images/nodejs.svg',
     label: 'NodeJS',
     desc: 'Web Server'
   },
   {
-    imgSrc: '/images/expressjs.svg',
+    imgSrc: 'images/expressjs.svg',
     label: 'ExpressJS',
     desc: 'Node Framework'
   },
   {
-    imgSrc: '/images/mysql.svg',
+    imgSrc: 'images/mysql.svg',
     label: 'MySQL',
     desc: 'Database'
   },
   {
-    imgSrc: '/images/react.svg',
+    imgSrc: 'images/react.svg',
     label: 'React',
     desc: 'Framework'
   },
   {
-    imgSrc: '/images/photoshop.svg',
+    imgSrc: 'images/photoshop.svg',
     label: 'Adobe Photoshop',
     desc: 'Photo Editing'
   },
   {
-    imgSrc: '/images/premiere.svg',
+    imgSrc: 'images/premiere.svg',
     label: 'Adobe Premiere Pro',
     desc: 'Video Editing'
   },
   {
-    imgSrc: '/images/illustrator.svg',
+    imgSrc: 'images/illustrator.svg',
     label: 'Adobe Illustrator',
     desc: 'Vector Graphics'
   },
   {
-    imgSrc: '/images/msexcel.svg',
+    imgSrc: 'images/msexcel.svg',
     label: 'Microsoft Excel',
     desc: 'User Interface'
   }
   ,
   {
-    imgSrc: '/images/msword.svg',
+    imgSrc: 'images/msword.svg',
     label: 'Microsoft Word',
     desc: 'User Interface'
   }
   ,
   {
-    imgSrc: '/images/msppt.svg',
+    imgSrc: 'images/msppt.svg',
     label: 'Microsoft Power Point',
     desc: 'User Interface'
   }

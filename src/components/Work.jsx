@@ -26,7 +26,7 @@ const projects = [
 `,
 
     date: "June 2024 - December 2024",
-    images: ["/images/project/tarumabot1.png", "/images/project/tarumabot2.png", "/images/project/tarumabot3.png","/images/project/tarumabot4.png","/images/project/tarumabot5.png","/images/project/tarumabot6.png",]
+    images: ["images/project/tarumabot1.png", "images/project/tarumabot2.png", "images/project/tarumabot3.png","images/project/tarumabot4.png","images/project/tarumabot5.png","images/project/tarumabot6.png",]
   },
   { 
     title: "Thriftology – E-Commerce UI/UX Design in Figma",
@@ -41,7 +41,7 @@ const projects = [
     <br><strong>Slide 4:</strong> Shopping Cart Items and Password Settings Page
 `,
     date: "October 2024 - December 2024",
-    images: ["/images/project/thriftology1.png", "/images/project/thriftology2.png","/images/project/thriftology3.png","/images/project/thriftology4.png"]
+    images: ["images/project/thriftology1.png", "images/project/thriftology2.png","images/project/thriftology3.png","images/project/thriftology4.png"]
   },
   { 
     title: "ShopEasy – Mobile Marketplace App Built with Flutter",
@@ -54,7 +54,7 @@ const projects = [
     <br><strong>Slide 4:</strong> User Profile and Settings Page
 `,
     date: "July 2023 - December 2023",
-    images: ["/images/project/shopeasy1.png", "/images/project/shopeasy2.png","/images/project/shopeasy3.png","/images/project/shopeasy4.png"]
+    images: ["images/project/shopeasy1.png", "images/project/shopeasy2.png","images/project/shopeasy3.png","images/project/shopeasy4.png"]
   },
   { 
     title: "Job Listing Fraud Detection using Machine Learning",
@@ -73,7 +73,7 @@ const projects = [
     <br><strong>Slide 10 & 11:</strong> Training the Model and Model Evaluation
     `,
     date: "July 2023 - December 2023",
-    images: ["/images/project/jobpostingprediction1.png", "/images/project/jobpostingprediction2.png","/images/project/jobpostingprediction3.png","/images/project/jobpostingprediction4.png","/images/project/jobpostingprediction5.png","/images/project/jobpostingprediction6.png","/images/project/jobpostingprediction7.png","/images/project/jobpostingprediction8.png","/images/project/jobpostingprediction9.png","/images/project/jobpostingprediction10.png","/images/project/jobpostingprediction11.png",]
+    images: ["images/project/jobpostingprediction1.png", "images/project/jobpostingprediction2.png","images/project/jobpostingprediction3.png","images/project/jobpostingprediction4.png","images/project/jobpostingprediction5.png","images/project/jobpostingprediction6.png","images/project/jobpostingprediction7.png","images/project/jobpostingprediction8.png","images/project/jobpostingprediction9.png","images/project/jobpostingprediction10.png","images/project/jobpostingprediction11.png",]
   },
   { 
     title: "Water Reminder – Hydration App Developed with Flutter",
@@ -87,7 +87,7 @@ const projects = [
     <br><strong>Slide 3:</strong> Settings Page and Additional Features
     `,
     date: "February 2023 - June 2023",
-    images: ["/images/project/waterreminder1.png", "/images/project/waterreminder2.png","/images/project/waterreminder3.png"]
+    images: ["images/project/waterreminder1.png", "images/project/waterreminder2.png","images/project/waterreminder3.png"]
   },
   { 
     title: "Digital Illustration",
@@ -102,7 +102,7 @@ const projects = [
     <br><strong>Slide 4:</strong> transforming photos into visual art through simplification, stylization, distortion, and destruction.
     `,
     date: "July 2023 - Februari 2025",
-    images: ["/images/project/illustration1.png", "/images/project/illustration2.png","/images/project/illustration3.png","/images/project/illustration4.png"]
+    images: ["images/project/illustration1.png", "images/project/illustration2.png","images/project/illustration3.png","images/project/illustration4.png"]
   },
   { 
     title: "Smoke Detection System with Machine Learning Models",
@@ -125,7 +125,7 @@ const projects = [
     <br><strong>Slide 10:</strong> Prediction and Evaluation using Random Forest
     `,
     date: "March 2023 - May 2023",
-    images: ["/images/project/smoke1.png", "/images/project/smoke2.png","/images/project/smoke3.png","/images/project/smoke4.png","/images/project/smoke5.png","/images/project/smoke6.png","/images/project/smoke7.png","/images/project/smoke8.png", "/images/project/smoke9.png", "/images/project/smoke10.png"]
+    images: ["images/project/smoke1.png", "images/project/smoke2.png","images/project/smoke3.png","images/project/smoke4.png","images/project/smoke5.png","images/project/smoke6.png","images/project/smoke7.png","images/project/smoke8.png", "images/project/smoke9.png", "images/project/smoke10.png"]
   }
 ];
 

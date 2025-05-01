@@ -163,7 +163,6 @@ body {
   @apply text-zinc-400
 }
 
-
 /* Menambahkan transisi pada container gambar */
 .carousel-container {
   transition: transform 0.5s ease-in-out;

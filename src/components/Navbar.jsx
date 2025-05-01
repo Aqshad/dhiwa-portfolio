@@ -1,5 +1,5 @@
 /**
- * @copyright 2024 codewithsadee
+ * @copyright 2024 dhiwaaqsha
  * @license Apache-2.0
  */
 
@@ -55,7 +55,7 @@ const Navbar = ({ navOpen }) => {
     },
     {
       label: 'Contact',
-      link: '#contact',
+      link: 'https://wa.me/6281219428854',
       className: 'nav-link md:hidden'
     }
   ];

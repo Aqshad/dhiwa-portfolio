@@ -1,5 +1,5 @@
 /**
- * @copyright 2024 codewithsadee
+ * @copyright 2024 dhiwaaqsha
  * @license Apache-2.0
  */
 
@@ -29,10 +29,10 @@ const Header = () => {
             className="logo"
           >
             <img
-              src="/images/logo-dhiwa-white.png"
+              src="images/logo-dhiwa-white.png"
               width={40}
               height={40}
-              alt="Henry Clark"
+              alt="Dhiwa Aqsha"
             />
           </a>
         </h1>
@@ -53,6 +53,8 @@ const Header = () => {
         <a
           href="https://wa.me/6281219428854"
           className="btn btn-secondary max-md:hidden md:justify-self-end"
+          target="_blank" // Menambahkan atribut target="_blank"
+          rel="noopener noreferrer"
         >
           Contact Me
         </a>

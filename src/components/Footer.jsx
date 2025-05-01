@@ -1,5 +1,5 @@
 /**
- * @copyright 2024 codewithsadee
+ * @copyright 2024 dhiwaaqsha
  * @license Apache-2.0
  */
 
@@ -116,10 +116,10 @@ const Footer = () => {
             className="logo reveal-up"
           >
             <img
-              src="/images/logo-dhiwa-white.png"
+              src="images/logo-dhiwa-white.png"
               width={40}
               height={40}
-              alt="Logo"
+              alt="Logo-dhiwa"
             />
           </a>
 
